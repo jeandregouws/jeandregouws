@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+This is my personal Readme. Im Jeandre from Cafpe Town South Africa.
