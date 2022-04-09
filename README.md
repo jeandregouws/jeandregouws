@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-This is my personal Readme. Im Jeandre from Cafpe Town South Africa.
+This is my personal Readme. Im Jeandre from Cape Town South Africa.
