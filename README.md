@@ -1,4 +1,4 @@
-# Hi there, I'm a Software Engineer 👋
+# Hi there 👋
 
 ## About Me
 
